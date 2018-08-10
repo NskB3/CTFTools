@@ -1,0 +1,5 @@
+import socket
+target = str(input("Target "))
+#Act like its running the scan.. :D
+time.sleep(4)
+print("file found: /robots.txt")
